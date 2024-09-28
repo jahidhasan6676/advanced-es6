@@ -188,3 +188,29 @@
 // reduce
 // const total = products.reduce((accum , current) => accum + current.price, 0);
 // console.log(total)
+
+// example of syntax------------>
+
+// let x = 'salman;
+// console.log(x)
+
+// console.log('hello, world!';
+    
+// for(Let i = 0; i < 5; i++){
+//     console.log(i)
+// }
+
+// const for = 0;
+// function add(a, b{
+//     return a+ b;
+// }
+
+// let number = 42;
+// number()
+
+// let user;
+// console.log(user.name)
+
+// let numbers = 45;
+// numbers.toUpperCase();
+
